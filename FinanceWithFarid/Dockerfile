@@ -4,7 +4,7 @@ WORKDIR /app
 EXPOSE 8080
 
 # Use the .NET SDK image to build the application
-FROM mcr.microsoft.com/dotnet/framework/sdk:4.8 AS build
+FROM mcr.microsoft.com/dotnet/framework/sdk:4.7.2 AS build
 WORKDIR /src
 COPY . .
 
