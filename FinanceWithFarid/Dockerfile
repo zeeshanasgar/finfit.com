@@ -1,5 +1,5 @@
 # Use Microsoft's official .NET runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:4.8 AS base
+FROM mcr.microsoft.com/dotnet/aspnet:4.7.2 AS base
 WORKDIR /app
 EXPOSE 8080
 
