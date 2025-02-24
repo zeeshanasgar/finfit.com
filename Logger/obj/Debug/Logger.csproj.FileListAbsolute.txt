@@ -1,0 +1,12 @@
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\Logger.dll.config
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\Logger.dll
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\Logger.pdb
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\EntityFramework.dll
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\EntityFramework.xml
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\obj\Debug\Logger.csproj.CopyComplete
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\obj\Debug\Logger.dll
+D:\ASP.NET\myOwnProject\FinanceWithFarid\Logger\obj\Debug\Logger.pdb

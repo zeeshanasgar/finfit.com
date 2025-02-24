@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceWithFarid", "FinanceWithFarid\FinanceWithFarid.csproj", "{33EA70E2-3E41-473F-8A34-5B47C7807A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{C387FCC1-DEA6-458D-981C-F06B92C41654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33EA70E2-3E41-473F-8A34-5B47C7807A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EA70E2-3E41-473F-8A34-5B47C7807A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EA70E2-3E41-473F-8A34-5B47C7807A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EA70E2-3E41-473F-8A34-5B47C7807A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C387FCC1-DEA6-458D-981C-F06B92C41654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C387FCC1-DEA6-458D-981C-F06B92C41654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C387FCC1-DEA6-458D-981C-F06B92C41654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C387FCC1-DEA6-458D-981C-F06B92C41654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C519821C-E4B3-4888-B749-51BD41AA2330}
+	EndGlobalSection
+EndGlobal
